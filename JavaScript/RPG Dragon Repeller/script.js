@@ -1,3 +1,10 @@
+// Date: 8/10/2025
+// Author: Levi Spellmeyer
+// Title: RPG game
+// Description: An RPG game created to continue practice using js functions, conditions, loops and javascript objects
+//              under the instruction of FreeCodeCamp
+
+
 let xp = 0;
 let health = 100;
 let gold = 50;
